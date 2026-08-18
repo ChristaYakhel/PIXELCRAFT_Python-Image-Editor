@@ -1,5 +1,3 @@
-# PIXELCRAFT_Python-Image-Editor
-
 # PIXELCRAFT - Python Image Editor
 
 A simple desktop image editing application built using Python, Tkinter, and Pillow.
